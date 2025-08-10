@@ -1,4 +1,4 @@
-# Laboratorio de Desarrollo Tecnológico II (Malla 2022)
+# Laboratorio de Desarrollo Tecnológico II
 Bienvenides al repositorio oficial del curso Laboratorio de Desarrollo Tecnológico II (VI semestre).
 
 ## Horario
@@ -11,4 +11,4 @@ Guillermo Montecinos, [guillermo.montecinos@uniacc.edu](mailto:guillermo.monteci
 ## Comunicación
 * La comunicación oficial del curso se realizará mediante el correo institucional de la universidad, y la plataforma e-campus.
 * Las entregas del curso se realizarán a través de Github.
-* La página oficial del curso se encuentra en el siguiente [link]('https://field-mine-ef5.notion.site/DIGR0602-Laboratorio-de-desarrollo-tecnol-gico-II-24951d9cbb998099b876d9be11065f1b?source=copy_link) de Notion.
+* La página oficial del curso se encuentra en el siguiente [link](https://field-mine-ef5.notion.site/DIGR0602-Laboratorio-de-desarrollo-tecnol-gico-II-24951d9cbb998099b876d9be11065f1b?source=copy_link) de Notion.
