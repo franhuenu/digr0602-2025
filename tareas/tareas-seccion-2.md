@@ -2,3 +2,4 @@
 
 ## Tarea 1
 * Constanza Beneventi
+* Fernanda González
