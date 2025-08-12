@@ -1,6 +1,7 @@
 # Tareas Sección 1
 
 ## Tarea 1
+* Benjamin Chamorro
 * Antonnela Hernandez
 * Valentina Medel 
 * Tamara Silva 
