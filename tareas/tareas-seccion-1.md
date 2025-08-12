@@ -1,6 +1,7 @@
 # Tareas Sección 1
 
 ## Tarea 1
+* Tamara Silva 
 * Sofía Garrido A.
 * Isis Padilla
 * Eric Ponce
