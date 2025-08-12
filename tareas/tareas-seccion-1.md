@@ -2,3 +2,5 @@
 
 ## Tarea 1
 * Javiera Vera
+* Constanza Díaz
+* alinette galdames
