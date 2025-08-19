@@ -9,3 +9,4 @@
 * sebastian bustamante
 * Constanza Beneventi
 * Fernanda González
+* Isabella Marchant M.
