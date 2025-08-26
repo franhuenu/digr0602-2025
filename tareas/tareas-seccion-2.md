@@ -9,6 +9,7 @@
 * sebastian bustamante
 * Constanza Beneventi
 * Fernanda González
+* Isabella Marchant M.
 
 ## Tarea 2
 * AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA
