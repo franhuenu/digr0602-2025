@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase 3 – Parte 2</title>
+    <style>
+        .chart circle{
+            fill: #00a2ff;
+            opacity: .4;
+            transition: .3s;
+        }
+        .chart circle:hover{
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <svg width="900" height="600">
+        <g class="chart" transform="translate(100, 0)"></g>
+        <g class="y-axis" transform="translate(0, 0)"></g>
+        <g class="x-axis" transform="translate(100, 500)"></g>
+    </svg>
+    <script src="./script.js" type="module"></script>
+</body>
+</html>
