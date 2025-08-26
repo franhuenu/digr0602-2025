@@ -1,7 +1,7 @@
 # Tareas Sección 1
 
 ## Tarea 1
-* Ian Donoso https://github.com/magiaanegraa/Laboratorio-de-desarrollo-tecnol-gico-2
+* Ian Donoso
 * Benjamin Chamorro
 * Antonnela Hernandez
 * Valentina Medel 
