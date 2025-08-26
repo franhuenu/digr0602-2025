@@ -20,7 +20,7 @@
 * IVANOVICH RODRÍGUEZ ZARINKA MILENKA
 * MARCHANT MARTIN ISABELLA CAROLINA https://github.com/isabellamarchant-lang/Visualizaci-ndatos/tree/main/tarea2
 * MARTÍNEZ MUNDY JOAQUÍN VICENTE
+* MORAGA BETSALEL DANIEL IGNACIO https://github.com/danielmoraga25/Laboratorio2/tree/main/Tarea%202
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/Lab.tencologico.tareas/blob/main/Tarea%20taller.zip
-* MORAGA BETSALEL DANIEL IGNACIO
 * PARGA LÓPEZ ANTONIA PAZ
 * SANTANA VILLARROEL VIKTOR IGNACIO
