@@ -7,7 +7,7 @@
 * Valentina Medel 
 * Tamara Silva 
 * Sofía Garrido A.
-* Isis Padilla
+* Isis Padilla 
 * Eric Ponce
 * Jo Lizana
 * Fransisca Huenullan
@@ -26,9 +26,9 @@
 * GONZÁLEZ VEGA ALONDRA SOL
 * HERNÁNDEZ SILVA ANTONNELA MELISSA
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA
+* PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/Curso-Laboratorio/tree/main/Tarea_2
 * LIZANA ZÚÑIGA JOSEFA VALENTINA https://github.com/jo-lizana/j0-lab.2_2025-2/tree/main/tarea2
 * MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/LabDesTec/tree/main/Tarea2
-* PADILLA CARRILLO ISIS CAROLINA
 * PONCE NÚÑEZ ERIC ALEJANDRO
 * SILVA SEREÑO TAMARA SOLEDAD
 * STUVEN CRIADO FELIPE IGNACIO
