@@ -7,7 +7,7 @@
 * Valentina Medel 
 * Tamara Silva 
 * Sofía Garrido A.
-* Isis Padilla
+* Isis Padilla 
 * Eric Ponce
 * Jo Lizana
 * Fransisca Huenullan
@@ -28,7 +28,7 @@
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA
 * LIZANA ZÚÑIGA JOSEFA VALENTINA
 * MEDEL ANDRADE VALENTINA ANTONIA
-* PADILLA CARRILLO ISIS CAROLINA
+* PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/Curso-Laboratorio/tree/main/Tarea_2
 * PONCE NÚÑEZ ERIC ALEJANDRO
 * SILVA SEREÑO TAMARA SOLEDAD
 * STUVEN CRIADO FELIPE IGNACIO
