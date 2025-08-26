@@ -18,7 +18,7 @@
 * alinette galdames
 
 ## Tarea 2
-* CHAMORRO HENRIQUEZ BENJAMIN IGNACIO
+* CHAMORRO HENRIQUEZ BENJAMIN IGNACIO https://github.com/Benja-minn/lab2/tree/main/tarea-2
 * DÍAZ OLGUÍN CONSTANZA EILIEM https://github.com/ConiDiaz/Lab-Tecnol-gico-II/tree/main/Tarea%202%20
 * GALDAMES ARAYA ALINETTE DAMAR
 * GARRIDO AGUILERA SOFÍA CATALINA https://github.com/sofig137/Lab-del-profe-Guille-UWU/blob/main/Tarea%202
