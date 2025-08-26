@@ -14,7 +14,7 @@
 ## Tarea 2
 * AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA
 * BENEVENTI GONZÁLEZ CONSTANZA ANDREA
-* BUSTAMANTE GANGAS JUAN SEBASTIÁN https://github.com/juanbustamante94/trabajosemestre-laboratorio/tree/main/trabajo%201
+* BUSTAMANTE GANGAS JUAN SEBASTIÁN http://github.com/juanbustamante94/trabajosemestre-laboratorio/tree/main/trabajo%201
 * DONOSO ARENAS IAN EDUARDO NICOLÁS
 * GONZÁLEZ ALARCÓN FERNANDA
 * IVANOVICH RODRÍGUEZ ZARINKA MILENKA
