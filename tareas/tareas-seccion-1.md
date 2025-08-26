@@ -11,7 +11,7 @@
 * Eric Ponce
 * Jo Lizana
 * Fransisca Huenullan
-* Fernanda Martinez
+* Fernanda Martinez https://github.com/fernandamartinezu/Lab.tencologico.tareas
 * Felipe Stuven
 * Javiera Vera
 * Constanza Díaz
