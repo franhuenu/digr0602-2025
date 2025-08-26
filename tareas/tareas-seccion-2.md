@@ -18,7 +18,7 @@
 * DONOSO ARENAS IAN EDUARDO NICOLÁS
 * GONZÁLEZ ALARCÓN FERNANDA
 * IVANOVICH RODRÍGUEZ ZARINKA MILENKA
-* MARCHANT MARTIN ISABELLA CAROLINA
+* MARCHANT MARTIN ISABELLA CAROLINA https://github.com/isabellamarchant-lang/Visualizaci-ndatos/tree/main/tarea2
 * MARTÍNEZ MUNDY JOAQUÍN VICENTE
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/Lab.tencologico.tareas/blob/main/Tarea%20taller.zip
 * MORAGA BETSALEL DANIEL IGNACIO
