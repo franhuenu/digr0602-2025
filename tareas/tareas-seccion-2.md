@@ -23,4 +23,4 @@
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/Lab.tencologico.tareas/blob/main/Tarea%20taller.zip
 * MORAGA BETSALEL DANIEL IGNACIO
 * PARGA LÓPEZ ANTONIA PAZ
-* SANTANA VILLARROEL VIKTOR IGNACIO
+* SANTANA VILLARROEL VIKTOR IGNACIO https://github.com/ViktorSantana1937/LabDesTEc-II
