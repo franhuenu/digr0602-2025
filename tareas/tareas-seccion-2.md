@@ -23,4 +23,4 @@
 * MORAGA BETSALEL DANIEL IGNACIO https://github.com/danielmoraga25/Laboratorio2/tree/main/Tarea%202
 * MARTÍNEZ UMAÑA FERNANDA VALENTINA https://github.com/fernandamartinezu/Lab.tencologico.tareas/blob/main/Tarea%20taller.zip
 * PARGA LÓPEZ ANTONIA PAZ
-* SANTANA VILLARROEL VIKTOR IGNACIO
+* SANTANA VILLARROEL VIKTOR IGNACIO https://github.com/ViktorSantana1937/LabDesTEc-II
