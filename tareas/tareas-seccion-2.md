@@ -15,7 +15,7 @@
 * AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA
 * BENEVENTI GONZÁLEZ CONSTANZA ANDREA https://github.com/constanzabeneventi-max/lab2/tree/main/tarea1
 * BUSTAMANTE GANGAS JUAN SEBASTIÁN
-* DONOSO ARENAS IAN EDUARDO NICOLÁS
+* DONOSO ARENAS IAN EDUARDO NICOLÁS https://github.com/magiaanegraa/Laboratorio-de-desarrollo-tecnol-gico-2
 * GONZÁLEZ ALARCÓN FERNANDA https://github.com/fernandagonzalezalarcon/laboratorioII/tree/main/Tarea%202
 * IVANOVICH RODRÍGUEZ ZARINKA MILENKA
 * MARCHANT MARTIN ISABELLA CAROLINA https://github.com/isabellamarchant-lang/Visualizaci-ndatos/tree/main/tarea2
