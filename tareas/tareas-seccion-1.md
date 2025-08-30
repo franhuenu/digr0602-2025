@@ -7,11 +7,11 @@
 * Valentina Medel 
 * Tamara Silva 
 * Sofía Garrido A.
-* Isis Padilla
+* Isis Padilla 
 * Eric Ponce
 * Jo Lizana
 * Fransisca Huenullan
-* Fernanda Martinez https://github.com/fernandamartinezu/Lab.tencologico.tareas
+* Fernanda Martinez 
 * Felipe Stuven
 * Javiera Vera
 * Constanza Díaz
@@ -24,12 +24,12 @@
 * GARRIDO AGUILERA SOFÍA CATALINA https://github.com/sofig137/Lab-del-profe-Guille-UWU/blob/main/Tarea%202
 * GODOY TOBAR ANTONIA
 * GONZÁLEZ VEGA ALONDRA SOL
-* HERNÁNDEZ SILVA ANTONNELA MELISSA
+* HERNÁNDEZ SILVA ANTONNELA MELISSA https://github.com/antonnelahernandez/LaboratorioTec_II/tree/antonnelahernandez-patch-1/Tarea2
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA
-* LIZANA ZÚÑIGA JOSEFA VALENTINA
-* MEDEL ANDRADE VALENTINA ANTONIA
-* PADILLA CARRILLO ISIS CAROLINA
+* PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/Curso-Laboratorio/tree/main/Tarea_2
+* LIZANA ZÚÑIGA JOSEFA VALENTINA https://github.com/jo-lizana/j0-lab.2_2025-2/tree/main/tarea2
+* MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/LabDesTec/tree/main/Tarea2
 * PONCE NÚÑEZ ERIC ALEJANDRO
-* SILVA SEREÑO TAMARA SOLEDAD
-* STUVEN CRIADO FELIPE IGNACIO
+* STUVEN CRIADO FELIPE IGNACIO https://github.com/felipeStuven/Laboratorio_tec_2/tree/main/Tarea%202
+* SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/Curso-laboratorio/tree/main/Tarea-2
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/main/Tarea2)
