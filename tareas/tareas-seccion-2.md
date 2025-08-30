@@ -12,7 +12,7 @@
 * Isabella Marchant M.
 
 ## Tarea 2
-* AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA
+* AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA https://github.com/camiaguirred/Laboratorio-tecnologico-2-/tree/main/TAREA%202%20CAMILA%20AGUIRRE%20SECCION%202
 * BENEVENTI GONZÁLEZ CONSTANZA ANDREA https://github.com/constanzabeneventi-max/lab2/tree/main/tarea1
 * BUSTAMANTE GANGAS JUAN SEBASTIÁN
 * DONOSO ARENAS IAN EDUARDO NICOLÁS
