@@ -16,6 +16,7 @@
 * AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA https://github.com/camiaguirred/Laboratorio-tecnologico-2-/tree/main/TAREA%202%20CAMILA%20AGUIRRE%20SECCION%202
 * BENEVENTI GONZÁLEZ CONSTANZA ANDREA https://github.com/constanzabeneventi-max/lab2/tree/main/tarea1
 * DONOSO ARENAS IAN EDUARDO NICOLÁS
+* IVANOVICH RODRÍGUEZ ZARINKA MILENKA https://github.com/zarinkaivanovich/laboratorio-2/tree/main/tarea%201
 * GONZÁLEZ ALARCÓN FERNANDA https://github.com/fernandagonzalezalarcon/laboratorioII/tree/main/Tarea%202
 * IVANOVICH RODRÍGUEZ ZARINKA MILENKA
 * MARCHANT MARTIN ISABELLA CAROLINA https://github.com/isabellamarchant-lang/Visualizaci-ndatos/tree/main/tarea2
