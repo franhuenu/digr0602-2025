@@ -34,6 +34,6 @@
 * IVANOVICH RODRÍGUEZ ZARINKA MILENKA
 * MARTÍNEZ MUNDY JOAQUÍN VICENTE
 * MORAGA BETSALEL DANIEL IGNACIO  https://github.com/danielmoraga25/Laboratorio2/tree/main/Tarea%203/Dataset
-* PARGA LÓPEZ ANTONIA PAZ
+* PARGA LÓPEZ ANTONIA PAZ https://github.com/antoniaparga/tareas/tree/main/tarea%203
 * SANTANA VILLARROEL VIKTOR IGNACIO https://github.com/ViktorSantana1937/LabDesTEc-II/tree/main/Tarea3
 * STUVEN CRIADO FELIPE IGNACIO https://github.com/felipeStuven/Laboratorio_tec_2/blob/main/grafico%20aplicaciones%20interactivas.jpg
