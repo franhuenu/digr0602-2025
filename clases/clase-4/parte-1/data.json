@@ -1,0 +1,352 @@
+[
+  {
+    "country": "Macedonia",
+    "gini": 0.78,
+    "gdp": 39031,
+    "population": 44572168,
+    "ip_address": "165.93.235.118"
+  },
+  {
+    "country": "Philippines",
+    "gini": 0.31,
+    "gdp": 66889,
+    "population": 199834017,
+    "ip_address": "184.191.250.62"
+  },
+  {
+    "country": "New Zealand",
+    "gini": 0.488,
+    "gdp": 88396,
+    "population": 193029031,
+    "ip_address": "177.134.238.31"
+  },
+  {
+    "country": "Pakistan",
+    "gini": 0.034,
+    "gdp": 68789,
+    "population": 151735841,
+    "ip_address": "212.88.59.123"
+  },
+  {
+    "country": "Chad",
+    "gini": 0.152,
+    "gdp": 5802,
+    "population": 143393440,
+    "ip_address": "217.138.165.4"
+  },
+  {
+    "country": "Russia",
+    "gini": 0.476,
+    "gdp": 28413,
+    "population": 15031469,
+    "ip_address": "102.85.61.108"
+  },
+  {
+    "country": "Brazil",
+    "gini": 0.402,
+    "gdp": 51682,
+    "population": 49247272,
+    "ip_address": "136.143.204.68"
+  },
+  {
+    "country": "Poland",
+    "gini": 0.536,
+    "gdp": 40789,
+    "population": 59622669,
+    "ip_address": "12.130.51.154"
+  },
+  {
+    "country": "Russia",
+    "gini": 0.606,
+    "gdp": 57549,
+    "population": 110532562,
+    "ip_address": "119.84.86.60"
+  },
+  {
+    "country": "China",
+    "gini": 0.58,
+    "gdp": 33386,
+    "population": 10029665,
+    "ip_address": "196.172.216.95"
+  },
+  {
+    "country": "Philippines",
+    "gini": 0.386,
+    "gdp": 34161,
+    "population": 159903892,
+    "ip_address": "242.242.144.242"
+  },
+  {
+    "country": "Burkina Faso",
+    "gini": 0.162,
+    "gdp": 81961,
+    "population": 159876817,
+    "ip_address": "142.99.70.140"
+  },
+  {
+    "country": "Poland",
+    "gini": 0.386,
+    "gdp": 51846,
+    "population": 29199360,
+    "ip_address": "151.218.133.107"
+  },
+  {
+    "country": "Indonesia",
+    "gini": 0.812,
+    "gdp": 50881,
+    "population": 116608489,
+    "ip_address": "28.148.252.2"
+  },
+  {
+    "country": "Indonesia",
+    "gini": 0.344,
+    "gdp": 31277,
+    "population": 173752268,
+    "ip_address": "226.122.41.179"
+  },
+  {
+    "country": "Czech Republic",
+    "gini": 0.064,
+    "gdp": 38432,
+    "population": 49988126,
+    "ip_address": "231.226.157.38"
+  },
+  {
+    "country": "Poland",
+    "gini": 0.492,
+    "gdp": 20075,
+    "population": 25784812,
+    "ip_address": "215.80.23.198"
+  },
+  {
+    "country": "Sweden",
+    "gini": 0.642,
+    "gdp": 39257,
+    "population": 151494678,
+    "ip_address": "215.142.64.140"
+  },
+  {
+    "country": "Nepal",
+    "gini": 0.272,
+    "gdp": 81018,
+    "population": 43670962,
+    "ip_address": "170.29.165.15"
+  },
+  {
+    "country": "Azerbaijan",
+    "gini": 0.648,
+    "gdp": 11146,
+    "population": 167447889,
+    "ip_address": "229.138.241.37"
+  },
+  {
+    "country": "Slovenia",
+    "gini": 0.728,
+    "gdp": 45816,
+    "population": 141944590,
+    "ip_address": "7.221.216.212"
+  },
+  {
+    "country": "China",
+    "gini": 0.478,
+    "gdp": 82442,
+    "population": 190237634,
+    "ip_address": "16.159.76.58"
+  },
+  {
+    "country": "Panama",
+    "gini": 0.01,
+    "gdp": 25873,
+    "population": 147324395,
+    "ip_address": "83.215.188.191"
+  },
+  {
+    "country": "Tajikistan",
+    "gini": 0.036,
+    "gdp": 2693,
+    "population": 142039146,
+    "ip_address": "163.165.71.0"
+  },
+  {
+    "country": "Indonesia",
+    "gini": 0.556,
+    "gdp": 53818,
+    "population": 140962320,
+    "ip_address": "90.92.35.119"
+  },
+  {
+    "country": "Thailand",
+    "gini": 0.636,
+    "gdp": 61961,
+    "population": 107614077,
+    "ip_address": "70.50.172.12"
+  },
+  {
+    "country": "Mexico",
+    "gini": 0.84,
+    "gdp": 31743,
+    "population": 14517179,
+    "ip_address": "164.28.231.92"
+  },
+  {
+    "country": "Colombia",
+    "gini": 0.558,
+    "gdp": 60992,
+    "population": 160393426,
+    "ip_address": "199.81.62.235"
+  },
+  {
+    "country": "China",
+    "gini": 0.44,
+    "gdp": 61519,
+    "population": 122530080,
+    "ip_address": "146.134.224.222"
+  },
+  {
+    "country": "Brazil",
+    "gini": 0.162,
+    "gdp": 11650,
+    "population": 15496125,
+    "ip_address": "79.207.159.89"
+  },
+  {
+    "country": "Portugal",
+    "gini": 0.37,
+    "gdp": 54725,
+    "population": 95773833,
+    "ip_address": "31.245.27.2"
+  },
+  {
+    "country": "Indonesia",
+    "gini": 0.546,
+    "gdp": 29931,
+    "population": 115632338,
+    "ip_address": "123.148.29.91"
+  },
+  {
+    "country": "Israel",
+    "gini": 0.732,
+    "gdp": 64866,
+    "population": 145066302,
+    "ip_address": "45.110.231.50"
+  },
+  {
+    "country": "United States",
+    "gini": 0.326,
+    "gdp": 79218,
+    "population": 166009801,
+    "ip_address": "74.116.0.203"
+  },
+  {
+    "country": "Netherlands",
+    "gini": 0.896,
+    "gdp": 56957,
+    "population": 123216147,
+    "ip_address": "198.245.5.49"
+  },
+  {
+    "country": "China",
+    "gini": 0.516,
+    "gdp": 22403,
+    "population": 178332048,
+    "ip_address": "246.200.163.182"
+  },
+  {
+    "country": "Indonesia",
+    "gini": 0.514,
+    "gdp": 59137,
+    "population": 117177746,
+    "ip_address": "58.62.2.195"
+  },
+  {
+    "country": "Ukraine",
+    "gini": 0.72,
+    "gdp": 67460,
+    "population": 186799930,
+    "ip_address": "12.153.138.148"
+  },
+  {
+    "country": "China",
+    "gini": 0.188,
+    "gdp": 33456,
+    "population": 19167661,
+    "ip_address": "7.78.142.137"
+  },
+  {
+    "country": "Comoros",
+    "gini": 0.33,
+    "gdp": 78275,
+    "population": 92391768,
+    "ip_address": "66.161.155.60"
+  },
+  {
+    "country": "Argentina",
+    "gini": 0.91,
+    "gdp": 14495,
+    "population": 82794778,
+    "ip_address": "220.35.95.169"
+  },
+  {
+    "country": "Morocco",
+    "gini": 0.224,
+    "gdp": 27388,
+    "population": 136975249,
+    "ip_address": "190.39.170.145"
+  },
+  {
+    "country": "China",
+    "gini": 0.314,
+    "gdp": 52470,
+    "population": 99105382,
+    "ip_address": "8.130.68.162"
+  },
+  {
+    "country": "Peru",
+    "gini": 0.534,
+    "gdp": 70117,
+    "population": 52940581,
+    "ip_address": "131.71.56.48"
+  },
+  {
+    "country": "Sweden",
+    "gini": 0.362,
+    "gdp": 66993,
+    "population": 127861500,
+    "ip_address": "52.141.44.207"
+  },
+  {
+    "country": "Japan",
+    "gini": 0.716,
+    "gdp": 75922,
+    "population": 49126063,
+    "ip_address": "111.135.25.233"
+  },
+  {
+    "country": "Belize",
+    "gini": 0.35,
+    "gdp": 88210,
+    "population": 44684499,
+    "ip_address": "4.58.1.147"
+  },
+  {
+    "country": "Indonesia",
+    "gini": 0.132,
+    "gdp": 23706,
+    "population": 58744529,
+    "ip_address": "74.241.112.114"
+  },
+  {
+    "country": "Yemen",
+    "gini": 0.304,
+    "gdp": 61468,
+    "population": 114267611,
+    "ip_address": "235.248.139.2"
+  },
+  {
+    "country": "China",
+    "gini": 0.412,
+    "gdp": 5085,
+    "population": 108868724,
+    "ip_address": "32.212.211.130"
+  }
+]

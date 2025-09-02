@@ -30,6 +30,10 @@
 * LIZANA ZÚÑIGA JOSEFA VALENTINA https://github.com/jo-lizana/j0-lab.2_2025-2/tree/main/tarea2
 * MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/LabDesTec/tree/main/Tarea2
 * PONCE NÚÑEZ ERIC ALEJANDRO
+* STUVEN CRIADO FELIPE IGNACIO https://github.com/felipeStuven/Laboratorio_tec_2/tree/main/Tarea%202
 * SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/Curso-laboratorio/tree/main/Tarea-2
-* STUVEN CRIADO FELIPE IGNACIO
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/main/Tarea2)
+
+## Tarea 3
+Constanza Díaz https://github.com/ConiDiaz/Lab-Tecnol-gico-II/blob/main/Tarea%203
+* Vera Castro Javiera Isabel (https://lapis-bugle-f5d.notion.site/TAREA-3-2613ceb82fc480e99de6f0a2df6b0e82?source=copy_link)
