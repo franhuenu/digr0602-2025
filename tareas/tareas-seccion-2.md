@@ -32,7 +32,7 @@
 * DONOSO ARENAS IAN EDUARDO NICOLÁS
 * GONZÁLEZ ALARCÓN FERNANDA https://www.notion.so/Tarea-3-26228cb944a780239ffffd1c9e098d43?source=copy_link
 * IVANOVICH RODRÍGUEZ ZARINKA MILENKA
-* MARTÍNEZ MUNDY JOAQUÍN VICENTE
+* MARTÍNEZ MUNDY JOAQUÍN VICENTE https://github.com/joaquinmartinez-jpg/tareaslaboratorio/blob/main/estadisticas%20poblacion%20chile.pdf
 * MORAGA BETSALEL DANIEL IGNACIO  https://github.com/danielmoraga25/Laboratorio2/tree/main/Tarea%203/Dataset
 * PARGA LÓPEZ ANTONIA PAZ
 * SANTANA VILLARROEL VIKTOR IGNACIO https://github.com/ViktorSantana1937/LabDesTEc-II/tree/main/Tarea3
