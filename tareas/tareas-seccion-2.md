@@ -31,7 +31,7 @@
 * BUSTAMANTE GANGAS JUAN SEBASTIÁN
 * DONOSO ARENAS IAN EDUARDO NICOLÁS
 * GONZÁLEZ ALARCÓN FERNANDA https://www.notion.so/Tarea-3-26228cb944a780239ffffd1c9e098d43?source=copy_link
-* IVANOVICH RODRÍGUEZ ZARINKA MILENKA
+* IVANOVICH RODRÍGUEZ ZARINKA MILENKA https://tender-cougar-4dd.notion.site/tarea-3-2620ac940c7680b0b68ced604cf6a8a0?source=copy_link
 * MARTÍNEZ MUNDY JOAQUÍN VICENTE
 * MORAGA BETSALEL DANIEL IGNACIO  https://github.com/danielmoraga25/Laboratorio2/tree/main/Tarea%203/Dataset
 * PARGA LÓPEZ ANTONIA PAZ
