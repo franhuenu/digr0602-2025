@@ -33,3 +33,6 @@
 * STUVEN CRIADO FELIPE IGNACIO https://github.com/felipeStuven/Laboratorio_tec_2/tree/main/Tarea%202
 * SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/Curso-laboratorio/tree/main/Tarea-2
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/main/Tarea2)
+
+* Tarea 3: Alinette Galdames
+* https://tarry-galette-312.notion.site/Tarea-3-Creaci-n-de-grafico-con-dataset-26158a064dd480cca665da2eef0a9c3a?source=copy_link
