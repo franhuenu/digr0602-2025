@@ -33,3 +33,6 @@
 * SILVA SEREÑO TAMARA SOLEDAD
 * STUVEN CRIADO FELIPE IGNACIO
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/main/Tarea2)
+
+## Tarea 3
+Constanza Díaz https://github.com/ConiDiaz/Lab-Tecnol-gico-II/blob/main/Tarea%203
