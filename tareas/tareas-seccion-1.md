@@ -25,7 +25,7 @@
 * GODOY TOBAR ANTONIA
 * GONZÁLEZ VEGA ALONDRA SOL
 * HERNÁNDEZ SILVA ANTONNELA MELISSA https://github.com/antonnelahernandez/LaboratorioTec_II/tree/antonnelahernandez-patch-1/Tarea2
-* HUENULLÁN GONZALEZ FRANSISCA ISIDORA
+* HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/LabGuille/tree/232c366b5856c4461566e38a95e7f8c9f0955fef/tarea%202
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/Curso-Laboratorio/tree/main/Tarea_2
 * LIZANA ZÚÑIGA JOSEFA VALENTINA https://github.com/jo-lizana/j0-lab.2_2025-2/tree/main/tarea2
 * MEDEL ANDRADE VALENTINA ANTONIA https://github.com/valhimedel/LabDesTec/tree/main/Tarea2
