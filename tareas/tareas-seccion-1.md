@@ -12,7 +12,7 @@
 * Jo Lizana
 * Fransisca Huenullan
 * Fernanda Martinez 
-* Felipe Stuven
+* Felipe Stuven https://github.com/felipeStuven/Laboratorio_tec_2/blob/main/grafico%20aplicaciones%20interactivas.jpg
 * Javiera Vera
 * Constanza Díaz
 * alinette galdames
