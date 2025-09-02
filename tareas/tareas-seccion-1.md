@@ -33,3 +33,6 @@
 * SILVA SEREÑO TAMARA SOLEDAD
 * STUVEN CRIADO FELIPE IGNACIO
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/main/Tarea2)
+
+  ##Tarea 3
+  Isis Padilla https://silicon-cast-b58.notion.site/Tarea-3-Visualizaci-n-Datos-261ba3e9deb08070b9a9ef1ce667b0fa?source=copy_link
