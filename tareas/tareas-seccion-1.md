@@ -33,3 +33,6 @@
 * STUVEN CRIADO FELIPE IGNACIO https://github.com/felipeStuven/Laboratorio_tec_2/tree/main/Tarea%202
 * SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/Curso-laboratorio/tree/main/Tarea-2
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/main/Tarea2)
+
+Tarea3
+Antonnela Hernández https://drive.google.com/drive/folders/1v4gTZNVpnqz7nA031RYgnf6dqfyPRp7R?usp=drive_link
