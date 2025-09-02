@@ -27,7 +27,7 @@
 
 ## Tarea 3
 * AGUIRRE DATTOLI CAMILA VALENTINA FRANCISCA https://github.com/camiaguirred/digr0602-2025/blob/main/Tarea%203%20Laboratorio%20.jpg
-* BENEVENTI GONZÁLEZ CONSTANZA ANDREA
+* BENEVENTI GONZÁLEZ CONSTANZA ANDREA https://github.com/constanzabeneventi-max/lab2/blob/main/Tarea%203%20Constanza%20Beneventi
 * BUSTAMANTE GANGAS JUAN SEBASTIÁN
 * DONOSO ARENAS IAN EDUARDO NICOLÁS
 * GONZÁLEZ ALARCÓN FERNANDA https://www.notion.so/Tarea-3-26228cb944a780239ffffd1c9e098d43?source=copy_link
