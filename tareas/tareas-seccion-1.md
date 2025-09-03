@@ -35,6 +35,7 @@
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/main/Tarea2)
 
 ## Tarea 3
+Antonnela Hernández https://drive.google.com/drive/folders/1v4gTZNVpnqz7nA031RYgnf6dqfyPRp7R?usp=drive_link
 Alinette Galdames https://tarry-galette-312.notion.site/Tarea-3-Creaci-n-de-grafico-con-dataset-26158a064dd480cca665da2eef0a9c3a?source=copy_link
 fransisca huenullan https://github.com/franhuenu/LabGuille/blob/232c366b5856c4461566e38a95e7f8c9f0955fef/Tarea%203
 * GARRIDO AGUILERA SOFÍA CATALINA https://hyper-innocent-f57.notion.site/Tarea-3-Representacion-de-datos-26170f63d3db803485ffe0afcc89b0ed?source=copy_link
