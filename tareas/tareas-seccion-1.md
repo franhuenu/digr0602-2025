@@ -34,7 +34,10 @@
 * SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/Curso-laboratorio/tree/main/Tarea-2
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/main/Tarea2)
 
-## Tarea 3
+
+  ##Tarea 3
+  Isis Padilla https://silicon-cast-b58.notion.site/Tarea-3-Visualizaci-n-Datos-261ba3e9deb08070b9a9ef1ce667b0fa?source=copy_link
+
 Antonnela Hernández https://drive.google.com/drive/folders/1v4gTZNVpnqz7nA031RYgnf6dqfyPRp7R?usp=drive_link
 Alinette Galdames https://tarry-galette-312.notion.site/Tarea-3-Creaci-n-de-grafico-con-dataset-26158a064dd480cca665da2eef0a9c3a?source=copy_link
 fransisca huenullan https://github.com/franhuenu/LabGuille/blob/232c366b5856c4461566e38a95e7f8c9f0955fef/Tarea%203
