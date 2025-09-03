@@ -31,8 +31,8 @@
 * BUSTAMANTE GANGAS JUAN SEBASTIÁN https://sugared-yumberry-0f7.notion.site/trabajo-3-laboratorio-262be65ce67680fabd21f47ef68fc9c0?source=copy_link
 * DONOSO ARENAS IAN EDUARDO NICOLÁS
 * GONZÁLEZ ALARCÓN FERNANDA https://www.notion.so/Tarea-3-26228cb944a780239ffffd1c9e098d43?source=copy_link
+* MARTÍNEZ MUNDY JOAQUÍN VICENTE https://github.com/joaquinmartinez-jpg/tareaslaboratorio/blob/main/estadisticas%20poblacion%20chile.pdf
 * IVANOVICH RODRÍGUEZ ZARINKA MILENKA https://tender-cougar-4dd.notion.site/tarea-3-2620ac940c7680b0b68ced604cf6a8a0?source=copy_link
-* MARTÍNEZ MUNDY JOAQUÍN VICENTE
 * MORAGA BETSALEL DANIEL IGNACIO  https://github.com/danielmoraga25/Laboratorio2/tree/main/Tarea%203/Dataset
 * PARGA LÓPEZ ANTONIA PAZ https://github.com/antoniaparga/tareas/tree/main/tarea%203
 * SANTANA VILLARROEL VIKTOR IGNACIO https://github.com/ViktorSantana1937/LabDesTEc-II/tree/main/Tarea3
