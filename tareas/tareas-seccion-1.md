@@ -34,17 +34,38 @@
 * SILVA SEREÑO TAMARA SOLEDAD https://github.com/tamarasilva-uf/Curso-laboratorio/tree/main/Tarea-2
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/main/Tarea2)
 
-
-
-tarea 3 Vale medel https://polite-beauty-792.notion.site/Tarea-3-LabDesTec-2-2621b29079a980fab427e613f54464ef?source=copy_link
-
-  ##Tarea 3
-  Isis Padilla https://silicon-cast-b58.notion.site/Tarea-3-Visualizaci-n-Datos-261ba3e9deb08070b9a9ef1ce667b0fa?source=copy_link
-
-Antonnela Hernández https://drive.google.com/drive/folders/1v4gTZNVpnqz7nA031RYgnf6dqfyPRp7R?usp=drive_link
-Alinette Galdames https://tarry-galette-312.notion.site/Tarea-3-Creaci-n-de-grafico-con-dataset-26158a064dd480cca665da2eef0a9c3a?source=copy_link
-fransisca huenullan https://github.com/franhuenu/LabGuille/blob/232c366b5856c4461566e38a95e7f8c9f0955fef/Tarea%203
+## Tarea 3
+* CHAMORRO HENRIQUEZ BENJAMIN IGNACIO
+* DÍAZ OLGUÍN CONSTANZA EILIEM https://github.com/ConiDiaz/Lab-Tecnol-gico-II/blob/main/Tarea%203
+* GALDAMES ARAYA ALINETTE DAMAR https://tarry-galette-312.notion.site/Tarea-3-Creaci-n-de-grafico-con-dataset-26158a064dd480cca665da2eef0a9c3a?source=copy_link
 * GARRIDO AGUILERA SOFÍA CATALINA https://hyper-innocent-f57.notion.site/Tarea-3-Representacion-de-datos-26170f63d3db803485ffe0afcc89b0ed?source=copy_link
-Constanza Díaz https://github.com/ConiDiaz/Lab-Tecnol-gico-II/blob/main/Tarea%203
-* Vera Castro Javiera Isabel (https://lapis-bugle-f5d.notion.site/TAREA-3-2613ceb82fc480e99de6f0a2df6b0e82?source=copy_link)
+* GODOY TOBAR ANTONIA
+* GONZÁLEZ VEGA ALONDRA SOL
+* HERNÁNDEZ SILVA ANTONNELA MELISSA https://drive.google.com/drive/folders/1v4gTZNVpnqz7nA031RYgnf6dqfyPRp7R?usp=drive_link
+* HUENULLÁN GONZALEZ FRANSISCA ISIDORA https://github.com/franhuenu/LabGuille/blob/232c366b5856c4461566e38a95e7f8c9f0955fef/Tarea%203
+* LIZANA ZÚÑIGA JOSEFA VALENTINA
+* MARCHANT MARTIN ISABELLA CAROLINA
+* MARTÍNEZ UMAÑA FERNANDA VALENTINA
+* MEDEL ANDRADE VALENTINA ANTONIA https://polite-beauty-792.notion.site/Tarea-3-LabDesTec-2-2621b29079a980fab427e613f54464ef?source=copy_link
+* PADILLA CARRILLO ISIS CAROLINA https://silicon-cast-b58.notion.site/Tarea-3-Visualizaci-n-Datos-261ba3e9deb08070b9a9ef1ce667b0fa?source=copy_link
+* PONCE NÚÑEZ ERIC ALEJANDRO
+* SILVA SEREÑO TAMARA SOLEDAD
+* VERA CASTRO JAVIERA ISABEL https://lapis-bugle-f5d.notion.site/TAREA-3-2613ceb82fc480e99de6f0a2df6b0e82?source=copy_link
 
+## Tarea 4
+* CHAMORRO HENRIQUEZ BENJAMIN IGNACIO
+* DÍAZ OLGUÍN CONSTANZA EILIEM
+* GALDAMES ARAYA ALINETTE DAMAR
+* GARRIDO AGUILERA SOFÍA CATALINA
+* GODOY TOBAR ANTONIA
+* GONZÁLEZ VEGA ALONDRA SOL
+* HERNÁNDEZ SILVA ANTONNELA MELISSA
+* HUENULLÁN GONZALEZ FRANSISCA ISIDORA
+* LIZANA ZÚÑIGA JOSEFA VALENTINA
+* MARCHANT MARTIN ISABELLA CAROLINA
+* MARTÍNEZ UMAÑA FERNANDA VALENTINA
+* MEDEL ANDRADE VALENTINA ANTONIA
+* PADILLA CARRILLO ISIS CAROLINA
+* PONCE NÚÑEZ ERIC ALEJANDRO
+* SILVA SEREÑO TAMARA SOLEDAD
+* VERA CASTRO JAVIERA ISABEL
