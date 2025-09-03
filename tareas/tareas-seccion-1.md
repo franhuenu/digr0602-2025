@@ -12,7 +12,7 @@
 * Jo Lizana
 * Fransisca Huenullan
 * Fernanda Martinez 
-* Felipe Stuven
+* Felipe Stuven https://github.com/felipeStuven/Laboratorio_tec_2/blob/main/grafico%20aplicaciones%20interactivas.jpg
 * Javiera Vera
 * Constanza Díaz
 * alinette galdames
@@ -36,3 +36,5 @@
 
 ## Tarea 3
 * GARRIDO AGUILERA SOFÍA CATALINA https://hyper-innocent-f57.notion.site/Tarea-3-Representacion-de-datos-26170f63d3db803485ffe0afcc89b0ed?source=copy_link
+Constanza Díaz https://github.com/ConiDiaz/Lab-Tecnol-gico-II/blob/main/Tarea%203
+* Vera Castro Javiera Isabel (https://lapis-bugle-f5d.notion.site/TAREA-3-2613ceb82fc480e99de6f0a2df6b0e82?source=copy_link)
