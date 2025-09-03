@@ -35,6 +35,9 @@
 * VERA CASTRO JAVIERA ISABEL (https://github.com/Jav1Vera/Tareas/tree/main/Tarea2)
 
 
+
+tarea 3 Vale medel https://polite-beauty-792.notion.site/Tarea-3-LabDesTec-2-2621b29079a980fab427e613f54464ef?source=copy_link
+
   ##Tarea 3
   Isis Padilla https://silicon-cast-b58.notion.site/Tarea-3-Visualizaci-n-Datos-261ba3e9deb08070b9a9ef1ce667b0fa?source=copy_link
 
@@ -44,3 +47,4 @@ fransisca huenullan https://github.com/franhuenu/LabGuille/blob/232c366b5856c446
 * GARRIDO AGUILERA SOFÍA CATALINA https://hyper-innocent-f57.notion.site/Tarea-3-Representacion-de-datos-26170f63d3db803485ffe0afcc89b0ed?source=copy_link
 Constanza Díaz https://github.com/ConiDiaz/Lab-Tecnol-gico-II/blob/main/Tarea%203
 * Vera Castro Javiera Isabel (https://lapis-bugle-f5d.notion.site/TAREA-3-2613ceb82fc480e99de6f0a2df6b0e82?source=copy_link)
+
